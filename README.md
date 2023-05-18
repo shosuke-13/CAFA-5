@@ -3,7 +3,7 @@
 
 ##### Protein sequences embedding, EDA train dataset, Dimensionality Reduction is ongoing. If some analysis have done, I will upload source code.
 
-<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/41875/logos/thumb76_76.png" alt="CAFA-5 Protein Function Prediction" title="CAFA-5 Protein Function Prediction">
+<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/41875/logos/thumb76_76.png?t=2023-02-28-14-18-54" alt="CAFA-5 Protein Function Prediction" title="CAFA-5 Protein Function Prediction">
 
 ## [Competition Overview](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/overview)
 
@@ -36,7 +36,7 @@ More details is available on [competition data page](https://www.kaggle.com/comp
 |**IA.txt** |Information Accretion for each term. This is used to weight precision and recall (see Evaluation)|
 |**sample_submission.csv**|a sample submission file in the correct format|
 
-## Protein Sequences Embedding
+## Protein Sequences Embedding (From discussion)
 
 1.  ProtVec (word2vec) : Continuous distributed representation of biological sequences for deep proteomics and genomics. [https://arxiv.org/abs/1503.05140](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/url)
 2.  SeqVec (ELMo) : Modeling aspects of the language of life through transfer-learning protein sequences. [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3220-8](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/url)
