@@ -3,7 +3,7 @@
 
 ##### Protein sequences embedding, EDA train dataset, Dimensionality Reduction is ongoing. If some analysis have done, I will upload source code.
 
-<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/41875/logos/thumb76_76.png?t=2023-02-28-14-18-54" alt="CAFA-5 Protein Function Prediction" title="CAFA-5 Protein Function Prediction">
+<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/41875/logos/header.png?t=2023-02-28-14-27-02" alt="CAFA-5 Protein Function Prediction" title="CAFA-5 Protein Function Prediction">
 
 ## [Competition Overview](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/overview)
 
