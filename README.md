@@ -8,26 +8,22 @@
 
 
 ## [Competition Overview](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/overview)
-***
 
 >  Goal of the Competition
 >  The goal of this competition is to predict the function of a set of proteins. You will develop a model trained on the amino-acid sequences of the proteins and on other data. Your work will help ​​researchers better understand the function of proteins, which is important for discovering how cells, tissues, and organs work. This may also aid in the development of new drugs and therapies for various diseases.
 
 
-### Summarize Overview
-***
+## Summarize Overview
 
 1.  The competition aims to predict the function of proteins using models trained on amino-acid sequences and other data.
 2.  This will aid researchers in understanding protein function, leading to the development of new drugs and therapies for diseases. (Reference: Research paper)
 
-### Dataset Background
-***
+## Dataset Background
 
 1.  The Gene Ontology (GO) is a hierarchy that describes the biological function of genes and gene products at different levels of abstraction.
 2.  The protein's function is represented by a subset of one or more of the subontologies, and annotations are supported by evidence codes. (Ashburner et al., 2000)
 
-###  Files
-***
+##  Files
 
 More details is available on [competition data page](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/data).
 
@@ -42,8 +38,7 @@ More details is available on [competition data page](https://www.kaggle.com/comp
 |**IA.txt** |Information Accretion for each term. This is used to weight precision and recall (see Evaluation)|
 |**sample_submission.csv**|a sample submission file in the correct format|
 
-### Protein sequences embedding
-***
+## Protein sequences embedding
 
 1.  ProtVec (word2vec) : Continuous distributed representation of biological sequences for deep proteomics and genomics. [https://arxiv.org/abs/1503.05140](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/url)
 2.  SeqVec (ELMo) : Modeling aspects of the language of life through transfer-learning protein sequences. [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3220-8](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/url)
@@ -55,8 +50,7 @@ More details is available on [competition data page](https://www.kaggle.com/comp
 6.  UniRep (mLSTM) : Unified rational protein engineering with sequence-based deep representation learning. [https://www.nature.com/articles/s41592-019-0598-1](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/url)
 
 
-### What is gene onthology (GO)
-***
+## What is gene onthology (GO)
 
 Gene Ontology (GO) is a widely used resource in bioinformatics that provides structured and standardized descriptions of genes and their associated biological functions, cellular components, and molecular processes. It serves as a controlled vocabulary to annotate and characterize genes and gene products across different organisms.
 
