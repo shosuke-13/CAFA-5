@@ -1,7 +1,10 @@
 # CAFA 5 Protein Function Prediction (Ongoing)
 ### *Kaggle Competition about bioinfomatics & machine-learning*
 
-![CAFA 5 Protein Function Prediction](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fcompetitions%2Fcafa-5-protein-function-prediction%2Foverview%2Fcafa&psig=AOvVaw0yS2CMr3PfrT-fRnX0kB3j&ust=1684492171663000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCtgb7U_v4CFQAAAAAdAAAAABAJ)
+## Protein sequences embedding, EDA train dataset, Dimensionality Reduction is ongoing.
+## if some analysis have done, I will upload source code.
+
+![CAFA 5 Protein Function Prediction](https://storage.googleapis.com/kaggle-competitions/kaggle/41875/logos/thumb76_76.png?t=2023-02-28-14-18-54)
 
 
 ## [Competition Overview](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/overview)
