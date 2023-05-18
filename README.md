@@ -38,6 +38,7 @@ More details is available on [competition data page](https://www.kaggle.com/comp
 |**sample_submission.csv**|a sample submission file in the correct format|
 
 ### Protein sequences embedding
+***
 
 1.  ProtVec (word2vec) : Continuous distributed representation of biological sequences for deep proteomics and genomics. [https://arxiv.org/abs/1503.05140](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/url)
 2.  SeqVec (ELMo) : Modeling aspects of the language of life through transfer-learning protein sequences. [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3220-8](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/url)
@@ -50,6 +51,7 @@ More details is available on [competition data page](https://www.kaggle.com/comp
 
 
 ### What is gene onthology (GO)
+***
 
 Gene Ontology (GO) is a widely used resource in bioinformatics that provides structured and standardized descriptions of genes and their associated biological functions, cellular components, and molecular processes. It serves as a controlled vocabulary to annotate and characterize genes and gene products across different organisms.
 
