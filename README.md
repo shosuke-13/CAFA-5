@@ -8,22 +8,27 @@
 
 
 ## [Competition Overview](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/overview)
+***
 
 >  Goal of the Competition
 >  The goal of this competition is to predict the function of a set of proteins. You will develop a model trained on the amino-acid sequences of the proteins and on other data. Your work will help ​​researchers better understand the function of proteins, which is important for discovering how cells, tissues, and organs work. This may also aid in the development of new drugs and therapies for various diseases.
 
 
 ### Summarize Overview
+***
 
 1.  The competition aims to predict the function of proteins using models trained on amino-acid sequences and other data.
 2.  This will aid researchers in understanding protein function, leading to the development of new drugs and therapies for diseases. (Reference: Research paper)
 
 ### Dataset Background
+***
 
 1.  The Gene Ontology (GO) is a hierarchy that describes the biological function of genes and gene products at different levels of abstraction.
 2.  The protein's function is represented by a subset of one or more of the subontologies, and annotations are supported by evidence codes. (Ashburner et al., 2000)
 
 ###  Files
+***
+
 More details is available on [competition data page](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/data).
 
 | File | Contents |
