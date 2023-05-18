@@ -28,7 +28,7 @@
 More details is available on [competition data page](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/data).
 
 | File | Contents |
-|---|-----|
+|:---:|---|
 |**train_sequences.fasta**|amino acid sequences for proteins in training set|
 |**train_terms.tsv**|the training set of proteins and corresponding annotated GO terms|
 |**train_taxonomy.tsv**|taxon ID for proteins in training set|
@@ -38,7 +38,7 @@ More details is available on [competition data page](https://www.kaggle.com/comp
 |**IA.txt** |Information Accretion for each term. This is used to weight precision and recall (see Evaluation)|
 |**sample_submission.csv**|a sample submission file in the correct format|
 
-## Protein sequences embedding
+## Protein Sequences Embedding
 
 1.  ProtVec (word2vec) : Continuous distributed representation of biological sequences for deep proteomics and genomics. [https://arxiv.org/abs/1503.05140](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/url)
 2.  SeqVec (ELMo) : Modeling aspects of the language of life through transfer-learning protein sequences. [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3220-8](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/url)
@@ -50,15 +50,17 @@ More details is available on [competition data page](https://www.kaggle.com/comp
 6.  UniRep (mLSTM) : Unified rational protein engineering with sequence-based deep representation learning. [https://www.nature.com/articles/s41592-019-0598-1](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/discussion/url)
 
 
-## What is gene onthology (GO)
+## What is Gene Onthology (GO)
 
 Gene Ontology (GO) is a widely used resource in bioinformatics that provides structured and standardized descriptions of genes and their associated biological functions, cellular components, and molecular processes. It serves as a controlled vocabulary to annotate and characterize genes and gene products across different organisms.
 
 The Gene Ontology Consortium develops and maintains GO, and it consists of three main categories or branches:
 
-|**Biological Process (BP)**|This branch describes the series of events or activities that occur within a cell or an organism, contributing to a specific biological function. Examples of biological processes include cell division, metabolism, signal transduction, and immune response.|
-|**Cellular Component (CC)**|This branch represents the subcellular structures, locations, and complexes where gene products are active or present. Examples of cellular components include the nucleus, mitochondria, cytoskeleton, and plasma membrane.|
-|**Molecular Function (MF)**|This branch describes the specific biochemical activities or properties of gene products, such as catalytic or binding activities. Examples of molecular functions include enzyme activity, receptor binding, DNA binding, and transporter activity.|
+| Categories or Branches | Abstruct |
+|:---:|---|
+|**Biological Process (BP)**|This branch describes the series of events or activities that occur within a cell or an organism, contributing to a specific biological function. <br>Examples of biological processes include cell division, metabolism, signal transduction, and immune response.|
+|**Cellular Component (CC)**|This branch represents the subcellular structures, locations, and complexes where gene products are active or present.<br> Examples of cellular components include the nucleus, mitochondria, cytoskeleton, and plasma membrane.|
+|**Molecular Function (MF)**|This branch describes the specific biochemical activities or properties of gene products, such as catalytic or binding activities.<br> Examples of molecular functions include enzyme activity, receptor binding, DNA binding, and transporter activity.|
 
 The GO terms are organized in a hierarchical structure, with broader terms at the top and more specific terms at the lower levels. This hierarchical structure allows for the representation of relationships between different terms. Additionally, each term is assigned a unique identifier, allowing researchers to refer to specific terms in their analyses.
 
