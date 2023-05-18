@@ -1,8 +1,8 @@
 # CAFA 5 Protein Function Prediction (Ongoing)
 ### *Kaggle Competition about bioinfomatics & machine-learning*
 
-## Protein sequences embedding, EDA train dataset, Dimensionality Reduction is ongoing.
-## if some analysis have done, I will upload source code.
+###### Protein sequences embedding, EDA train dataset, Dimensionality Reduction is ongoing.
+###### if some analysis have done, I will upload source code.
 
 ![CAFA 5 Protein Function Prediction](https://storage.googleapis.com/kaggle-competitions/kaggle/41875/logos/thumb76_76.png?t=2023-02-28-14-18-54)
 
