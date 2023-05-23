@@ -1,20 +1,15 @@
-# CAFA 5 Protein Function Prediction (Ongoing)
-### *Kaggle Competition about bioinfomatics & machine-learning*
+# CAFA 5 Protein Function Prediction 
+*Overview & Analyssis Soureces*
 
 ##### Protein sequences embedding, EDA train dataset, Dimensionality Reduction is ongoing. If some analysis have done, I will upload source code.
 
-![CAFA-5 Protein Function Prediction](https://github.com/shosuke-13/CAFA-5/assets/84508762/7fb40569-def4-4ede-b85e-0a3d9f60263d)
-
 ## [Competition Overview](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction/overview)
+1.  The competition aims to predict the function of proteins using models trained on amino-acid sequences and other data.
+2.  This will aid researchers in understanding protein function, leading to the development of new drugs and therapies for diseases. (Reference: Research paper)
 
 >  Goal of the Competition
 >  The goal of this competition is to predict the function of a set of proteins. You will develop a model trained on the amino-acid sequences of the proteins and on other data. Your work will help ​​researchers better understand the function of proteins, which is important for discovering how cells, tissues, and organs work. This may also aid in the development of new drugs and therapies for various diseases.
 
-
-## Summarize Overview
-
-1.  The competition aims to predict the function of proteins using models trained on amino-acid sequences and other data.
-2.  This will aid researchers in understanding protein function, leading to the development of new drugs and therapies for diseases. (Reference: Research paper)
 
 ## Dataset Background
 
